@@ -1,5 +1,7 @@
 # doxygen
-Helper scripts for assembly files, and using IDA-Pro generated assembly files for Doxygen.
+Filter to convert assembly into C like code which doxygen can then parse. Support for IDA-Pro generated assembly files.
+
+Referenced by: [Doxygen Helpers](https://www.doxygen.nl/helpers.html)
 
 ## asm4doxy
 ASSEMBLY CONVERTER FOR DOXYGEN Enhancements for IDA-Pro and MASM. Generates cross reference information between procedure calls. Original script by Bogdan bogdro Drozdowski who approved and improved enhanced version at http://rudy.mif.pg.gda.pl/~bogdro/inne
